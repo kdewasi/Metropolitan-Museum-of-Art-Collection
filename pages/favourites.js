@@ -1,5 +1,5 @@
 import { useAtom } from 'jotai';
-import { favouritesAtom } from '../store'; 
+import { favouritesAtom } from '@/store'; 
 import { Row, Col, Card } from 'react-bootstrap';
 import ArtworkCardDetail from '@/components/ArtworkcardDetail'; 
 
